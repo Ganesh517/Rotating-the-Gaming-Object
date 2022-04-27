@@ -59,6 +59,7 @@ public class princy : MonoBehaviour
 ```
 
 ## Output:
+![image](https://github.com/Ganesh517/Rotating-the-Gaming-Object/blob/main/n.jpg.jpeg)
 
 
 ## Result:
