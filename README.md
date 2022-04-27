@@ -63,3 +63,6 @@ public class princy : MonoBehaviour
 
 
 ## Result:
+
+Thus the 3D application for rotating the gaming objects in unity is verified and done successfully.
+
